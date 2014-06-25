@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://172.28.87.81/ios/ieasy.ipa</string>
+					<string>http://172.28.87.81/ios/RuiKlasse.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.nec.ieasy</string>
+				<string>com.nec.ruiklasse.RuiKlasse</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>2.0.20</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>ieasy</string>
+				<string>RuiKlasse</string>
 			</dict>
 		</dict>
 	</array>
